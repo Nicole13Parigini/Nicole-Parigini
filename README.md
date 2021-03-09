@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Problema di fibonacci
+Data una bilancia a due piatti, che pesa 13 oggetti di peso crescente da 1 a 13 grammi, un visitatore, attraverso l'interazione vocale con la pagina web, deve indovinare il peso di tre tarature in grado di porre in equilibrio una alla volta gli oggetti posti su un piatto della bilancia. Le tarature possono essere collocate su uno o su ambedue i piatti anche in numero inferiore a tre.
+Digitando questo link si ha accesso all'interazione vocale:
+<a href="Voce/Voce.html"> Pagina di risposta </a>
 
-You can use the [editor on GitHub](https://github.com/Nicole13Parigini/Nicole-Parigini/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nicole13Parigini/Nicole-Parigini/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
